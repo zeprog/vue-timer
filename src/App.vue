@@ -15,6 +15,7 @@ export default {
 </script>
 
 <style lang='scss'>
+@import './utils/fonts.scss';
 body {
   margin: 0;
   padding: 0;
