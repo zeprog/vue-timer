@@ -5,12 +5,6 @@
 </template>
 
 <style lang='scss'>
-.timer-block {
-  width: 33.333%;
-  height: 120px;
-  background: #696969;
-}
-
 .timer-block__plus {
   position: relative;
   top: 50%;
